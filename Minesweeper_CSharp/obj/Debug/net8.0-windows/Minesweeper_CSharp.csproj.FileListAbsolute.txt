@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\bin\Debug\net8.0-windows\Minesweeper_CSharp.exe
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\bin\Debug\net8.0-windows\Minesweeper_CSharp.deps.json
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\bin\Debug\net8.0-windows\Minesweeper_CSharp.runtimeconfig.json
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\bin\Debug\net8.0-windows\Minesweeper_CSharp.dll
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\bin\Debug\net8.0-windows\Minesweeper_CSharp.pdb
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.Form1.resources
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.dll
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\refint\Minesweeper_CSharp.dll
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.pdb
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\ref\Minesweeper_CSharp.dll
