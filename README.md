@@ -1,3 +1,3 @@
 # minesweeper_csharp
 
-![Imagem do programa](Imagem do programa.png)
+![Imagem do programa](./imagem_do_programa.png)
