@@ -21,15 +21,18 @@ class Field{
         if(this.Tiles.Count == 0) this.PopulateField(coords);
 
         Tile tile = this.GetTile(coords);
-        tile.Caved = true;
-        if(!tile.HasBomb){
-            this.Caved++;
-            this.SpreadCave(coords);
+        if (!tile.Caved){
+            tile.Caved = true;
+            if(!tile.HasBomb){
+                this.Caved++;
+                this.SpreadCave(coords);
+            }
         }
-        return tile; }
+        return tile;
+    }
 
     private void SpreadCave(HeightWidth coord){
-        List<HeightWidth> arroundCoords = this.GetNeighbourTilesArroundCoords(coord);
+        List<HeightWidth> arroundCoords = this.GetTilesArroundCoords(coord);
         // iterate through the neighbour tiles
         foreach(HeightWidth arroundCoord in arroundCoords){
             Tile tile = this.GetTile(arroundCoord);

@@ -28,12 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            label_gameStatus = new Label();
+            SuspendLayout();
+            // 
+            // label_gameStatus
+            // 
+            label_gameStatus.AutoSize = true;
+            label_gameStatus.Location = new Point(17, 15);
+            label_gameStatus.Name = "label_gameStatus";
+            label_gameStatus.Size = new Size(0, 15);
+            label_gameStatus.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(label_gameStatus);
+            Name = "Form1";
+            Text = "Campo Minado";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label_gameStatus;
     }
 }

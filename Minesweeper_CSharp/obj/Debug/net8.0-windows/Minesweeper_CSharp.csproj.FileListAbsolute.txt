@@ -14,3 +14,4 @@ C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8
 C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.pdb
 C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.genruntimeconfig.cache
 C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\ref\Minesweeper_CSharp.dll
+C:\Users\Alex\source\repos\Minesweeper_CSsharp\Minesweeper_CSharp\obj\Debug\net8.0-windows\Minesweeper_CSharp.sourcelink.json
