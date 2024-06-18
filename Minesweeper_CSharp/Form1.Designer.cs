@@ -29,21 +29,35 @@
         private void InitializeComponent()
         {
             label_gameStatus = new Label();
+            groupField = new GroupBox();
             SuspendLayout();
             // 
             // label_gameStatus
             // 
             label_gameStatus.AutoSize = true;
-            label_gameStatus.Location = new Point(17, 15);
+            label_gameStatus.Location = new Point(12, 9);
             label_gameStatus.Name = "label_gameStatus";
             label_gameStatus.Size = new Size(0, 15);
             label_gameStatus.TabIndex = 0;
+            // 
+            // groupField
+            // 
+            groupField.AutoSize = true;
+            groupField.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            groupField.Location = new Point(12, 27);
+            groupField.Name = "groupField";
+            groupField.Size = new Size(6, 5);
+            groupField.TabIndex = 1;
+            groupField.TabStop = false;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            AutoSize = true;
+            AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            ClientSize = new Size(253, 236);
+            Controls.Add(groupField);
             Controls.Add(label_gameStatus);
             Name = "Form1";
             Text = "Campo Minado";
@@ -54,5 +68,7 @@
         #endregion
 
         private Label label_gameStatus;
+        private GroupBox group_Field;
+        private GroupBox groupField;
     }
 }
